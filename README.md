@@ -1,9 +1,11 @@
 AIM
+
 To study and implement categorical data analysis in Python using the Pandas library for frequency counting, cross-tabulation, grouping, filtering, and sorting of categorical datasets.
 
 ________________________________________________________________________________________________________________________
 
 THEORY
+
 Categorical data analysis involves examining data that can be divided into distinct groups or categories, such as grades, departments, gender, product categories, and payment methods. In Python, the Pandas library provides efficient tools to analyze such data using frequency counts, percentage distributions, grouping, filtering, and cross-tabulation. These techniques help in understanding category relationships, trends, and distributions within datasets. Categorical analysis is widely used in student performance analysis, customer segmentation, sales analysis, and survey data interpretation.
 
 One-line explanation of functions used:
@@ -29,4 +31,5 @@ sum() – Adds values, often used after percentage or count operations.
 ________________________________________________________________________________________________________________________
 
 CONCLUSION
+
 Thus, we successfully studied categorical data analysis using Pandas. We learned how to perform frequency counting, percentage analysis, cross-tabulation, grouping, filtering, and sorting, which are essential techniques for analyzing and interpreting categorical datasets effectively.
